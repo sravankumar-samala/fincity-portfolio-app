@@ -36,7 +36,7 @@ function App() {
             </div>
           </div>
           <div className="hero-image-container">
-            <img src="src/assets/hero-img.jpg" alt="hero logo" />
+            <img src="/hero-img.jpg" alt="hero logo" />
           </div>
         </section>
         <section className="add-projects-container" id="about">
